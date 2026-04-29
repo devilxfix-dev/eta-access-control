@@ -1,8 +1,13 @@
 {
   "allowed": [
-    "t.alaa@elsewedy-ind.com"
+    "t.alaa@elsewedy-ind.com",
+    "M.Rushdy@elsewedy-ind.com",
+    "E.Sayed@elsewedy-ind.com",
+    "J.Maged@elsewedy-ind.com"
   ],
   "admin": [
-    "t.alaa@elsewedy-ind.com"
+    "t.alaa@elsewedy-ind.com",
+    "M.Rushdy@elsewedy-ind.com",
+    "E.Sayed@elsewedy-ind.com"
   ]
 }
